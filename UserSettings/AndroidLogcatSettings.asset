@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "AMD00147325",
+    "m_SelectedPackage": {
+        "deviceId": "AMD00147325",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 22689,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6241,
+            "exited": false
+        },
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 7404,
+            "exited": false
+        },
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 9023,
+            "exited": false
+        },
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19001,
+            "exited": false
+        },
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20028,
+            "exited": false
+        },
+        {
+            "deviceId": "AMD00147325",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 22689,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
